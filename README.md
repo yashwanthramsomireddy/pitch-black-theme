@@ -12,10 +12,21 @@ every asset here (color palette, background image, naming) is original to
 
 ## What's included
 
+```
+/
+├── Desktop/
+│   └── TeamExyKings Pitch Black Theme.tdesktop-theme
+├── Android/
+│   └── TeamExyKings Pitch Black Theme.attheme
+├── README.md
+├── CHANGELOG.md
+└── LICENSE
+```
+
 | File | Platform |
 |---|---|
-| `TeamExyKings Pitch Black Theme.tdesktop-theme` | Telegram Desktop (Windows / macOS / Linux) |
-| `TeamExyKings Pitch Black Theme.attheme` | Telegram for Android |
+| `Desktop/TeamExyKings Pitch Black Theme.tdesktop-theme` | Telegram Desktop (Windows / macOS / Linux) |
+| `Android/TeamExyKings Pitch Black Theme.attheme` | Telegram for Android |
 
 The Desktop file is a ZIP archive containing:
 - `colors.tdesktop-theme` — the full color palette (539 keys covering the
@@ -37,15 +48,17 @@ The Android file is a single `.attheme` palette file (541 keys).
 ## Installation
 
 ### Telegram Desktop
-1. Send `TeamExyKings Pitch Black Theme.tdesktop-theme` to yourself (e.g. in
-   Saved Messages) or open it directly from your downloads folder.
+1. Download `Desktop/TeamExyKings Pitch Black Theme.tdesktop-theme` from
+   this repo and send it to yourself (e.g. in Saved Messages), or open it
+   directly from your downloads folder.
 2. Click the file inside Telegram Desktop.
 3. In the **Theme Preview** window, click **Apply This Theme**, then
    **Keep Changes**.
 
 ### Telegram for Android
-1. Send `TeamExyKings Pitch Black Theme.attheme` to yourself (e.g. in
-   Saved Messages) or open it from your downloads folder.
+1. Download `Android/TeamExyKings Pitch Black Theme.attheme` from this
+   repo and send it to yourself (e.g. in Saved Messages), or open it from
+   your downloads folder.
 2. Tap the file to open the theme preview.
 3. Tap **Apply**.
 
